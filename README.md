@@ -1,0 +1,3 @@
+# LecceStorica
+
+Copyright IGM
